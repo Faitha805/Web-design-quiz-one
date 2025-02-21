@@ -29,7 +29,7 @@ Quiz solutions.
    
 12.Not Equal
 
-13. let is used to  declares the value of variables that can be redeclared. 
+13. let is used to  declare the value of variables that can be redeclared. 
 var also declares the value of variables that can be redeclared, however var is not recognised by all browsers. 
 const declares the specific unalterable value of a variable.
 
