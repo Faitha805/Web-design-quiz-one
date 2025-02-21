@@ -24,7 +24,8 @@ Quiz solutions.
 10.B-False
 
 11.function greet (name){
-      return "Hello,name!"}
+      return "Hello" + name + "!"}
+   console.log(greet)
    
 12.Not Equal
 
