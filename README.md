@@ -1,7 +1,8 @@
 # Web-design-quiz-one
 Year 1, Semester 2
 
-Quiz solutions
+Quiz solutions.
+
 1.C
 
 2.B
