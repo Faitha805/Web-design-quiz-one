@@ -25,7 +25,7 @@ Quiz solutions.
 
 11.function greet (name){
       return "Hello" + name + "!"}
-   console.log(greet)
+   console.log(greet('Faith'))
    
 12.Not Equal
 
